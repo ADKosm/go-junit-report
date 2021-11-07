@@ -6,6 +6,8 @@ expect junit xml reports (e.g. [Jenkins](http://jenkins-ci.org)).
 [![Build Status][travis-badge]][travis-link]
 [![Report Card][report-badge]][report-link]
 
+**This repo contains go-junit-report tool with fixed multiline output.**
+
 ## Installation
 
 Go version 1.2 or higher is required. Install or update using the `go get`
