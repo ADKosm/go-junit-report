@@ -12,7 +12,8 @@ Go version 1.2 or higher is required. Install or update using the `go get`
 command:
 
 ```bash
-go get -u github.com/ADKosm/go-junit-report
+go get github.com/ADKosm/go-junit-report
+go install github.com/ADKosm/go-junit-report
 ```
 
 ## Usage
